@@ -6,10 +6,10 @@
 
 int main(void)
 {
+	putchar('-');
 	putchar('p');
 	putchar('u');
 	putchar('t');
-	putchar('_');
 	putchar('c');
 	putchar('h');
 	putchar('a');
